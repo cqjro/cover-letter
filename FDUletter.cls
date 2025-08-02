@@ -145,7 +145,7 @@
 \renewcommand{\closing}[1]{\par\nobreak\vspace{\parskip}%
     \stopbreaks
     \noindent
-    \parbox{0.7\textwidth}{\raggedright
+    \parbox{0.9\textwidth}{\raggedright
     \ignorespaces #1\\[3.5\medskipamount]%
     \ifx\@empty\fromsig
         \fromname
